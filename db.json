@@ -1,0 +1,60 @@
+{
+    "user": [
+      {
+        "name": "Rajan ",
+        "email": "rajan.gadekar2015@gmail.com",
+        "phone": "09921913183",
+        "address": "Ranjhangaon road",
+        "id": 13
+      },
+      {
+        "id": 14,
+        "name": "Rajan Gadekar",
+        "email": "rajan.gadekar2015@gmail.com",
+        "phone": "09921913183",
+        "address": "Ranjhangaon road"
+      },
+      {
+        "id": 15,
+        "name": "Rajan Gadekar",
+        "email": "rajan.gadekar2015@gmail.com",
+        "phone": "09921913183",
+        "address": "Ranjhangaon road"
+      },
+      {
+        "id": 16,
+        "name": "Rajan Gadekar",
+        "email": "rajan.gadekar2015@gmail.com",
+        "phone": "09921913183",
+        "address": "Ranjhangaon road"
+      },
+      {
+        "id": 17,
+        "name": "Rajan Gadekar",
+        "email": "rajan.gadekar2015@gmail.com",
+        "phone": "09921913183",
+        "address": "Ranjhangaon road"
+      },
+      {
+        "id": 19,
+        "name": "Rajan Gadekar",
+        "email": "rajan.gadekar2015@gmail.com",
+        "phone": "09921913183",
+        "address": "AP-Rahata Tal Rahata Dist-Ahmednagar\nAP-Rahata Tal Rahata Dist-Ahmednagar"
+      },
+      {
+        "id": 20,
+        "name": "Rajan Gadekar",
+        "email": "rajan.gadekar2015@gmail.com",
+        "phone": "09921913183",
+        "address": "AP-Rahata Tal Rahata Dist-Ahmednagar\nAP-Rahata Tal Rahata Dist-Ahmednagar"
+      },
+      {
+        "id": 21,
+        "name": "Rajan Gadekar",
+        "email": "rajan.gadekar2015@gmail.com",
+        "phone": "09921913183",
+        "address": "AP-Rahata Tal Rahata Dist-Ahmednagar\nAP-Rahata Tal Rahata Dist-Ahmednagar"
+      }
+    ]
+  }
